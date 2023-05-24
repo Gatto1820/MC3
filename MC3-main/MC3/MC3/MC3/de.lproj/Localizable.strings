@@ -1,0 +1,68 @@
+/* 
+  Localizable.strings
+  BreakTime
+
+  Created by Francesco Merola on 06/03/23.
+  
+*/
+
+"Welcome" = "Willkommen";
+
+"BubbleMessage1" = "Es ist so schwierig, Süchte unter Kontrolle zu halten...";
+"BubbleMessage2" = "Du hast  Recht! Es ist schwierig, aber ich bin sicher, dass du es schaffen kannst!";
+"BubbleMessage3" = "Wie kann ich ";
+"BubbleMessage4" = "Versuchst du, BreakTime zu benutzen! Es könnte Ihnen wirklich helfen, es zu tun!";
+"OnboardingButtonText" = "Fangen wir an";
+
+// ListView
+"NavigationTileListView" = "Schlechte Gewohnheiten";
+"Alcohol" = "Alkohol";
+"Candies" = "Bonbons";
+"Cigarettes" = "Zigaretten";
+"Coffee" = "Kaffee";
+"Gambling" = "Spielen";
+
+// QuestionGoal
+"AlcoholQuestion" = "Wie viele Gläser Alkohol willst du pro Tag trinken?";
+"CandiesQuestion" = "Wie vielen Bonbon willst du pro Tag essen? ";
+"CigaretteQuestion" = "Wie viele Zigaretten willst du   pro Tag rauchen?";
+"CoffeeQuestion" = "Wie viele Kaffee willst du   pro Tag trinken?";
+"GamblingQuestion" = "Wie viele Wetten möchtest du pro Tag platzieren??";
+
+// ClockView
+"LeftButtonText" = "Zurück";
+"RightButtonText" = "Setzen Sie Ihr Ziel";
+"DefaultText" = "Klickest du auf die Schaltfläche, um Ihr neues Ziel festzulegen";
+
+// CigarettePhrases
+"CigarettePhrase1" = "Glückwunsch! Wenn du planest, ein Baby zu bekommen, reduzierest du jetzt Ihre Fruchtbarkeit!";
+"CigarettePhrase2" = "Gut gemacht! Wenn du vorhast zu sterben, erhöht sich mit den Zigaretten, die du geraucht hast, die Wahrscheinlichkeit eines Herzinfarkts!";
+"CigarettePhrase3" = "Herzlichen Glückwunsch! Wenn Sie älter aussehen wollen als Sie sind, dann tun Sie das Richtige!";
+"CigarettePhrase4" = "Gut gemacht! Wenn Sie Ihre gesamten Ersparnisse verlieren wollen, ist dies der beste Weg, dies zu tun!";
+"CigarettePhrase5" = "Kompliment! Wissenschaftler haben behauptet, dass 30 % aller Krebstodesfälle in den USA auf das Rauchen zurückzuführen sind. Wenn Sie weiter rauchen, gibt es mehr";
+
+// AlcoholPhrases
+"AlcoholPhrase1" = "Gut gemacht! Kannst du zählen, wie viele Finger es sind? Ich bin mir sicher, dass du nach diesem Drink nicht mehr in der Lage bist, es zu tun!";
+"AlcoholPhrase2" = "Gut gemacht! Die Leber macht sich bereit! Heute mit diesem mehr trinken ist wie eine Talentshow!";
+"AlcoholPhrase3" = "Herzlichen Glückwunsch! Du hast eine Superkraft! Wenn Sie in der Nähe sind, werden alkoholische Getränke in einer Weile verschwinden!";
+"AlcoholPhrase4" = "Komplimente! Hast du deine Leber schon gegrüßt? Mit diesem weiteren Getränk wird er jetzt gehen!";
+
+// SweetsPhrases
+"SweetPhrase1" = "Gut gemacht! Mit diesen Süßigkeiten, die du gegessen hast, wird dein Lächeln deinen Zahnarzt reicher machen!";
+"SweetPhrase2" = "Herzlichen Glückwunsch! Haben Sie die Zähne wiedergefunden, die Sie verloren haben, nachdem Sie diese leckere Süßigkeit gegessen haben?";
+"SweetPhrase3" = "Kompliment! All die Süßigkeiten, die du isst, machen dich nicht süßer, sondern bringen dir nur Diabetes und mehr Fäulnis.";
+"SweetPhrase4" =  "Felicitation! Have you been invited to the party? I’ve heard that your blood sugars are dancing Macarena right now!";
+
+// CoffeePhrases
+"CoffePhrase1" = "Gute Arbeit! Wenn du vorhast zu sterben, erhöht sich mit dem Kaffee, den du getrunken hast, die Wahrscheinlichkeit eines Herzinfarkts!";
+"CoffePhrase2" =  "Gut gemacht! Wenn du ein nervöser Mensch sein willst und diesen Kaffee trinkst, dann tust du das Richtige!";
+"CoffePhrase3" =  "Herzlichen Glückwunsch! Wenn Sie ein ängstlicher Mensch sind, wird das Trinken von mehr Kaffee Ihre Angst verstärken!";
+"CoffePhrase4" = "Kompliment! Wenn Sie unter Schlaflosigkeit leiden, werden Sie durch das Trinken von viel Kaffee sicher glücklich schlafen!";
+
+// GamblingPhrases
+"GamblingPhrase1" = "Gut gemacht! Wenn Sie Ihre gesamten Ersparnisse verlieren wollen, ist dies der beste Weg, dies zu tun!";
+"GamblingPhrase2" = "Ein Glücksspieler ist nichts anderes als ein Mann, der seinen Lebensunterhalt mit falschen Hoffnungen verdient.";
+"GamblingPhrase3" = "Glücksspiel: Der sichere Weg, von etwas nichts zu bekommen.";
+"GamblingPhrase4" = "Zeige mir einen Spieler und ich zeige dir einen Verlierer.";
+"GamblingPhrase5" = "sichere Art, sein Geld zu verdoppeln, ist, es einmal umzufalten und in die Tasche zu stecken.";
+"GamblingPhrase6" =  "Glücksspiel ist eine Familienkrankheit. Eine Person mag süchtig sein, aber die ganze Familie leidet darunter.";

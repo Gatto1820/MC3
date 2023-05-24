@@ -1,0 +1,73 @@
+/*
+  Localizable.strings
+  BreakTime
+
+  Created by Francesco Merola on 06/03/23.
+  
+*/
+
+// Onboarding
+"Welcome" = "Welcome";
+"BubbleMessage1" = "It's so difficult to keep addictions under control...";
+"BubbleMessage2" = "You’re right! It’s difficult, but I’m sure you could do it!";
+"BubbleMessage3" = "How can I?";
+"BubbleMessage4" = "Try to use BreakTime! It really could help you to do it!";
+"OnboardingButtonText" = "Let's start";
+
+// ListView
+"NavigationTitleListView" = "Bad Habits";
+"Alcohol" = "Alcohol";
+"Candies" = "Candies";
+"Cigarettes" = "Cigarettes";
+"Coffee" = "Coffee";
+"Gambling" = "Gambling";
+
+// QuestionGoal
+"AlcoholQuestion" = "How many glasses of alcohol per day do you want to drink?";
+"CandiesQuestion" = "How many candies per day do you want to eat?";
+"CigaretteQuestion" = "How many cigarettes per day do you want to smoke?";
+"CoffeeQuestion" = "How many cups of coffee per day do you want to drink?";
+"GamblingQuestion" = "How many bets do you want to place per day?";
+
+// ClockView
+"LeftButtonText" = "Back";
+"RightButtonText" = "Set your goal";
+"DefaultText" = "Click on the button to set your new goal";
+
+// CigarettePhrases
+"CigarettePhrase1" = "Felicitation! If you are planning to have a baby, now you are reducing your fertility!";
+"CigarettePhrase2" = "Good job! If you’re planning to die, with those cigarettes that you have smoked, the possibility of having an heart attack are increased!";
+"CigarettePhrase3" = "Congratulation! If you want to look older than you are, smoking you are doing the right thing!";
+"CigarettePhrase4" = "Well done! If you want to lose all your savings, this is the best way to do it!";
+"CigarettePhrase5" = "Compliments! Scientist have claimed that 30% of all cancer deaths in USA are caused by smoking. If you will continue smoking, there are more";
+
+// AlcoholPhrases
+"AlcoholPhrase1" = "Well done! Can you count how many fingers are? I’m sure that after that drink you aren’t able to do it!";
+"AlcoholPhrase2" = "Good job! Liver prepare yourself! Today with this more drink is like a talent show!";
+"AlcoholPhrase3" = "Congratulation! You have a superpower! If you are around, alcohol drinks will disappear in a while!";
+"AlcoholPhrase4" = "Compliments! Have you have said hello to your liver? With this more drink, he is leaving now!";
+
+// SweetsPhrases
+"SweetPhrase1" = "Good job! With those sweets that you have eaten, your smile will make your dentist richer!";
+"SweetPhrase2" = "Congratulations! Have you found the teeth that you have lost after you have eaten that delicious sweet?";
+"SweetPhrase3" = "Compliments! All the sweets that you eat won’t make you sweeter, they will only bring to you diabetes and more decays.";
+"SweetPhrase4" =  "Felicitation! Have you been invited to the party? I’ve heard that your blood sugars are dancing Macarena right now!";
+
+// CoffeePhrases
+"CoffePhrase1" = "Good job! If you’re planning to die, with those coffee that you have drank, the possibility of having an heart attack are increased!";
+"CoffePhrase2" =  "Well done! If you want to be a nervous person, drinking this coffee you are doing the right thing!";
+"CoffePhrase3" =  "Congratulations! If you are an anxious person, drinking more coffee will increase the level of your anxiety!";
+"CoffePhrase4" = "Compliments! If you suffer from insomnia, drinking a lot of coffee surely you will sleep blissfully!";
+
+// GamblingPhrases
+"GamblingPhrase1" = "Well done! If you want to lose all your savings, this is the best way to do it!";
+"GamblingPhrase2" = "A Gambler is nothing but a man who makes his living out of false hope.";
+"GamblingPhrase3" = "Gambling: The sure way of getting nothing from something.";
+"GamblingPhrase4" = "Show me a gambler and I’ll show you a loser.";
+"GamblingPhrase5" = "The safe way to double your money is to fold it over once and put it in your pocket.";
+"GamblingPhrase6" =  "Gambling is a family disease. One person may be addicted but the whole family suffers.";
+
+
+
+
+

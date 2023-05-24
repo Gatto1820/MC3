@@ -1,0 +1,60 @@
+// Onboarding
+"Welcome" = "Benvenuto";
+"BubbleMessage1" = "È difficile avere le dipendenze sotto controllo...";
+"BubbleMessage2" = "Hai ragione! È difficile, ma sono sicuro che potrei farcela!";
+"BubbleMessage3" = "Come posso?";
+"BubbleMessage4" = "Prova ad usare BreakTime! Veramente potrà aiutarti!";
+"OnboardingButtonText" = "Iniziamo";
+
+// ListView
+"NavigationTileListView" = "Cattive Abitudini";
+"Alcohol" = "Alcol";
+"Candies" = "Caramelle";
+"Cigarettes" = "Sigarette";
+"Coffee" = "Caffè";
+"Gambling" = "Gioco d’azzardo";
+
+// QuestionGoal
+"AlcoholQuestion" = "Quanti bicchieri di alcol al giorno vuoi bere?";
+"CandiesQuestion" = "Quante caramelle al giorno vuoi mangiare?";
+"CigaretteQuestion" = "Quante sigarette al giorno vuoi fumare?";
+"CoffeeQuestion" = "Quante tazze di caffè al giorno vuoi bere?";
+"GamblingQuestion" = "Quante puntate al giorno vuoi fare?";
+
+// ClockView
+"LeftButtonText" = "Indietro";
+"RightButtonText" = "Imposta il tuo obiettivo";
+"DefaultText" = "Premi il pulsante per impostare un nuovo obiettivo";
+
+// CigarettePhrases
+"CigarettePhrase1" = "Felicitazioni! Se stai pianificando di avere un bambino, così stai riducendo la tua fertilità!";
+"CigarettePhrase2" = "Ottimo lavoro! Se stai pianificando di morire, con queste sigarette che hai fumato, le possibilità di avere un infarto sono aumentate!";
+"CigarettePhrase3" = "Congratulazioni! Se vuoi sembrare più vecchio di quello che sei, fumando stia facendo la cosa giusta!";
+"CigarettePhrase4" = "Ben fatto! Se vuoi perdere tutti i tuoi risparmi, questo è il miglior modo per farlo!";
+"CigarettePhrase5" = "Complimenti! Studiosi hanno affermato che il 30% delle morti di cancro negli USA sono causati dal fumo. Se continui a fumare, ci saranno più possibilità per te!";
+
+// AlcoholPhrases
+"AlcoholPhrase1" = "Ben fatto! Riesci a conare quante dita sono? Sono sicuro che dopo questo drink, non sei capace di farlo!";
+"AlcoholPhrase2" = "Ottimo lavoro! Fegato preparati! Oggi con tutti questi drink, è una prova di talento!";
+"AlcoholPhrase3" = "Congratulazioni! Tu hai un super potere! Se sei nei dintorni, i drink alcolici spariscono in un attimo!";
+"AlcoholPhrase4" = "Complimenti! Hai salutato il tuo fegato? Con questo drink, se ne sta andando!";
+
+// SweetsPhrases
+"SweetPhrase1" = "Ottimo lavoro! Con queste sigarette che hai mangiato, your smile will make your dentist richer!";
+"SweetPhrase2" = "Congratulazioni! Hai trovato il dente che hai perso dopo aver mangiato quella caramella deliziosa?";
+"SweetPhrase3" = "Complimenti! Tutte le caramelle che hai mangiato non ti farà diventare più dolce, ti porteranno solo diabete e carie dentali.";
+"SweetPhrase4" =  "Felicitazioni! Sei stato invitato alla festa? Ho sentito che gli zuccheri nel tuo sangue stanno ballando la Macarena!";
+
+// CoffeePhrases
+"CoffePhrase1" = "Ottimo lavoro! Se stai programmando di morire, con questi caffè che hai bevuto, le possibilità di avere un infarto sono aumentate!";
+"CoffePhrase2" =  "Ben fatto! Se vuoi essere una persona nervosa, bevendo questo caffè stai facendo la cosa giusta!";
+"CoffePhrase3" =  "Congratulazioni! Se sei una persona ansiosa, drinking more coffee will increase the level of your anxiety!";
+"CoffePhrase4" = "Complimenti! Se soffri di insonnia, bevendo tanti caffè sicuramente dormirai beatamente!";
+
+// GamblingPhrases
+"GamblingPhrase1" = "Ben fatto! Se vuoi perdere tutti I tuoi risparmi, questo è il miglior modo per farlo!";
+"GamblingPhrase2" = "Un giocatore d'azzardo non è altro che un uomo che vive di false speranze.";
+"GamblingPhrase3" = "Gioco d'azzardo: il modo sicuro per non ottenere nulla da qualcosa.";
+"GamblingPhrase4" = "Mostrami un giocatore d'azzardo e ti mostrerò un perdente.";
+"GamblingPhrase5" = "Il modo sicuro per raddoppiare i tuoi soldi è piegarli e metterli in tasca.";
+"GamblingPhrase6" =  "Il gioco d'azzardo è una malattia familiare. Una persona può essere dipendente ma l'intera famiglia ne soffre.";
